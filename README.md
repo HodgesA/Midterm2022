@@ -3,7 +3,7 @@
 # Project 1
 https://github.com/HodgesA/Midterm2022/blob/main/midterm.py
 
-Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address real world issues
+Description: A "Web Dev Story" that helps users find age appropiate video games
 
 # Project 2 
 https://github.com/HodgesA/Midterm2022/blob/main/holidays.py
